@@ -80,6 +80,7 @@ Hoodie is written entirely in JavaScript.</li>
 <li>Project issue link : https://teams.railsgirlssummerofcode.org/projects/72-hoodie</li>
 <li>Project repository : https://github.com/Rookies-RGSOC2016</li>
 <li>Rookies Blog: https://rookies-2016rgsoc.rhcloud.com/</li>
+<li>Short video about our team: https://youtu.be/tn7UmasvaKU</li>
 </ul>
 
  
