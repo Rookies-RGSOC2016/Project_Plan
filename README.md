@@ -26,10 +26,9 @@ Hoodie is written entirely in JavaScript.</li>
 <h1>3. Coaches</h1> 
    <p><strong>*Coahes</strong> : Esko Luontola<a href="https://twitter.com/orfjackal" target="_blank">(@orfjackal)</a>, Omid<a href="https://github.com/omidfi" target="_blank">(@omidfi)</a>, Musse bekabil<a href="https://github.com/mussebekabil" target="_blank"> (@mussebekabil)</a><br>
     We are going to have a meeting in person, emails or Facebook chat with coaches according to the conditions or coaches' schedules. <br>
-    We have planned to have a regular Q&A session on topics which are new/complicated for us to understand or when we have challenges in our project, <br>
-	and also have a face to face regular meeting in the evening or on weekends or when coaches can make a time for us. <br>
+    We have planned to have a regular Q&A session on topics which are new/complicated for us to understand or when we have challenges in our project,and also have a face to face regular meeting in the evening or on weekends or when coaches can make a time for us. <br>
     All three coaches live in the Helsinki where is same area with our place, so we can meet them in person and ask advice easily. <br>
-    And in the coming Helsinki Rails Girls meetup, we will present our chosen RGSOC project to Helsinki RG coaches.<br> 
+    In the coming Helsinki Rails Girls meetup, we will present our chosen RGSOC project to Helsinki RG coaches.<br> 
 	We joined the Helsinki RG meetup several time before, and they gave us chance to present it. <br>
     We wish we can find more coaches who are interested in our project or would like to help us to get involved in RGSOC.<br></p>
  
