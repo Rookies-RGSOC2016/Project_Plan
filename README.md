@@ -25,16 +25,20 @@ Hoodie is written entirely in JavaScript.</li>
 
 <h1>3. Coaches</h1> 
    <p><strong>*Coahes</strong> : Esko Luontola<a href="https://twitter.com/orfjackal" target="_blank">(@orfjackal)</a>, Omid<a href="https://github.com/omidfi" target="_blank">(@omidfi)</a>, Musse bekabil<a href="https://github.com/mussebekabil" target="_blank"> (@mussebekabil)</a><br>
-    We are going to meet our coaches in person, emails or facebook chat according to the conditions or coaches' schedules.<br>
-	We have plannned to have a regular Q&A session on topics which are new or complicated for us to understand.<br> 
-	and also have a face to face regular meeting on weekends or when coaches can make a time for us</p>
+    We are going to have a meeting in person, emails or Facebook chat with coaches according to the conditions or coaches' schedules. <br>
+    We have planned to have a regular Q&A session on topics which are new/complicated for us to understand or when we have challenges in our project, <br>
+	and also have a face to face regular meeting in the evening or on weekends or when coaches can make a time for us. <br>
+    All three coaches live in the Helsinki where is same area with our place, so we can meet them in person and ask advice easily. <br>
+    And in the coming Helsinki Rails Girls meetup, we will present our chosen RGSOC project to Helsinki RG coaches.<br> 
+	We joined the Helsinki RG meetup several time before, and they gave us chance to present it. <br>
+    We wish we can find more coaches who are interested in our project or would like to help us to get involved in RGSOC.<br></p>
  
 <h1>4. The goal of our project</h1>
 <ul>
 <li>Creating a downloadable Hoodie desktop application that manages Hoodie instead of writing command lines </li>
 <li>Contributing our project to Open sources in GitHub </li>
 <li>Learning new technologies and project management skills</li>
-<li>Finalising Hoodie desktop applicaiton with all the requirements and functionalities</li>
+<li>Finalizing Hoodie desktop application with all the requirements and functionalities</li>
 <li>Spreading happy energy to everyone who is part of this experience</li>
 </ul>
 
@@ -42,11 +46,11 @@ Hoodie is written entirely in JavaScript.</li>
 
 <table>
 <tr><td><h3> Before RGSOC starts(April - May) </h3></td></tr>
- <tr><td>- checking the prototype from the last year</td></tr>
- <tr><td>- finding the actual requirements of the Hoodie desktop application(ex changes between the last year and this year - no couch DB, bundle.js -> client.js )</td></tr>
- <tr><td>- listing the UI & UX parts which we can improve with several iterations</td></tr>
- <tr><td>- being familiar with Hoodie, making demo apps such as Map app, Chat app.</td></tr>
- <tr><td>- learning JavaScript for preparing the summer project </td></tr>
+ <tr><td>- Checking the prototype from the last year</td></tr>
+ <tr><td>- Finding the actual requirements of the Hoodie desktop application(ex changes between the last year and this year - no couch DB, bundle.js -> client.js )</td></tr>
+ <tr><td>- Listing the UI & UX parts which we can improve with several iterations</td></tr>
+ <tr><td>- Being familiar with Hoodie, making demo apps such as Map app, Chat app.</td></tr>
+ <tr><td>- Learning JavaScript for preparing the summer project </td></tr>
 </table>
 
 <table>
