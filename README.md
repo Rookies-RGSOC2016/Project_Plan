@@ -11,7 +11,7 @@
 Simply, Hoodie is a no-Backend technology!:D </li>
 
 <li>Hoodie gives your frontend code superpowers or Dreamcode, 
-by allowing users to do things that ony a backend can do.</li>
+by allowing users to do things that only a backend can do.</li>
 
 <li>Hoodie's vision and future goal are to be accessible for designers and 
 people with few coding skills because Hoodie think this matters.
