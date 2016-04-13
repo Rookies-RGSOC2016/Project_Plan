@@ -62,7 +62,7 @@ Hoodie is written entirely in JavaScript.</li>
 
 <table>
 <tr><td><h3> Step2 : The 2nd month(July)</h3></td></tr> 
- <tr><td>- Understanding Hoodie API such as Client API(Hoodie, account, store), Plugin API(email, global share)</td></tr>
+ <tr><td>- Understanding Hoodie API such as Client API(account, store)</td></tr>
  <tr><td>- Attaching Hoodie functionalities(API) to the Hoodie desktop prototype</td></tr> 
 </table>
 
