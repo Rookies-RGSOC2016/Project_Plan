@@ -44,7 +44,7 @@ Hoodie is written entirely in JavaScript.</li>
 <h1>5. Our project plan</h1>
 
 <table>
-<tr><td><h3> Before RGSOC starts(April - May) </h3></td></tr>
+<tr><td><h3> Before RGSOC starts(April - June) </h3></td></tr>
  <tr><td>- Checking the prototype from the last year</td></tr>
  <tr><td>- Finding the actual requirements of the Hoodie desktop application(ex changes between the last year and this year - no couch DB, bundle.js -> client.js )</td></tr>
  <tr><td>- Listing the UI & UX parts which we can improve with several iterations</td></tr>
@@ -53,7 +53,7 @@ Hoodie is written entirely in JavaScript.</li>
 </table>
 
 <table>
-<tr><td><h3> Step1 : The 1st month(June)</h3></td></tr>
+<tr><td><h3> Step1 : The 1st month(July)</h3></td></tr>
  <tr><td>- Improving the UI& UX with more iteration of an usability testing.</td></tr>
  <tr><td>- Finding the requirements by user interview, user observation methods etc.</td></tr>
  <tr><td>- Improving the design by design guideline, interface design patterns methods etc.</td></tr>
@@ -61,13 +61,13 @@ Hoodie is written entirely in JavaScript.</li>
 </table>
 
 <table>
-<tr><td><h3> Step2 : The 2nd month(July)</h3></td></tr> 
+<tr><td><h3> Step2 : The 2nd month(August)</h3></td></tr> 
  <tr><td>- Understanding Hoodie API such as Client API(account, store)</td></tr>
  <tr><td>- Attaching Hoodie functionalities(API) to the Hoodie desktop prototype</td></tr> 
 </table>
 
 <table>
-<tr><td><h3> Step3 : The 3rd month(August)</h3></td></tr>
+<tr><td><h3> Step3 : The 3rd month(September)</h3></td></tr>
  <tr><td>- Learning node to use Electron framework for Hoodie desktop application.</td></tr>
  <tr><td>- Being familiar with Electron framework by following tutorials in Electron official page.</td></tr>
  <tr><td>- Wrapping the application with electron framework using Electron Documentation as a reference.</td></tr> 
